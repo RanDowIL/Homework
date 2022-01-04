@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Welcome to My channel</h2>
+<!-- First Site -->
+<form action="index.html">
+  <label for="fname">First name:</label><br>
+  <input type="text"  name="fname" placeholder="Nick"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text"  name="lname" placeholder="John"><br><br>
+  <label for="fname">Gender:</label><br>
+  <input type="text"  name="Gender" placeholder="Male"><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<h3><p>If you click the "Submit" button, You'll Continue to my Second Website</p></h3>
+<h3>Follow my Youtube Channel :D</h3>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/V9uOB702J10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
