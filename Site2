@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Welcome To the Color World</h1>
+    <p><b>The Rainbow are mixed with alot of colors</b></p>
+    <h2>please <strong>Choose</strong> your favorite color</h2>
+    <!-- Second Site -->
+    <input type="color">
+    <p>Vote for your color</p>
+    <form action="index3.html">
+        <label for="colors">Choose your Color:</label>
+        <select name="colors" id="colors">
+            <option value="Green">Green</option>
+            <option value="Red">Red</option>
+            <option value="Yellow">Yellow</option>
+            <option value="Blue">Blue</option>
+        </select>
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+    <h2>Attenction! you'll be transfer for my third website</h2>
+</body>
+
+</html>
